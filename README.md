@@ -1,7 +1,7 @@
 # B-drzewo
 Projekt implementuje B-drzewo jako strukturę indeksową dla pliku zawierającego rekordy. B-drzewo umożliwia wydajne wyszukiwanie, wstawianie, usuwanie oraz reorganizację pliku, minimalizując liczbę operacji dyskowych.
 
-Funkcjonalności
+# Funkcjonalności
 - Wstawianie rekordu
 - Odczyt rekordu na podstawie klucza
 - Przeglądanie pliku i indeksu w kolejności rosnącej wartości klucza
